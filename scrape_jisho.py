@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from time import sleep
 
 jisho_base_url = 'https://jisho.org/search/%23kanji%20'
 kanji_list = []
@@ -31,12 +32,13 @@ def scrape_jisho(base_url, n_level):
         url_tag = soup.find('a', {'class': 'more'})
         if url_tag != None:
             url = 'https:' + url_tag.get('href')
+            sleep(3)
         else: break
         
-N1 = scrape_jisho(jisho_base_url, 'n1')
-N2 = scrape_jisho(jisho_base_url, 'n2')   
-N3 = scrape_jisho(jisho_base_url, 'n3')
-N4 = scrape_jisho(jisho_base_url, 'n4')
+# N1 = scrape_jisho(jisho_base_url, 'n1')
+# N2 = scrape_jisho(jisho_base_url, 'n2')   
+# N3 = scrape_jisho(jisho_base_url, 'n3')
+# N4 = scrape_jisho(jisho_base_url, 'n4')
 N5 = scrape_jisho(jisho_base_url, 'n5')
 
 print(kanji_list)
