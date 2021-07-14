@@ -36,17 +36,14 @@ def scrape_jisho(base_url, n_level):
             sleep(2)
         else: break
         
-N1 = scrape_jisho(jisho_base_url, 'n1')
-sleep(3)
-N2 = scrape_jisho(jisho_base_url, 'n2')   
-sleep(3)
-N3 = scrape_jisho(jisho_base_url, 'n3')
-sleep(3)
-N4 = scrape_jisho(jisho_base_url, 'n4')
-sleep(3)
-N5 = scrape_jisho(jisho_base_url, 'n5')
 
+def crawler(num):
+    for i in range(1, num):
+        scrape_jisho(jisho_base_url, f'n{i}')
+        sleep(3)
 
+crawler(6)
+        
 with open('kanji.csv', 'w', encoding='utf-8-sig', newline='') as f:
     headers = ['kanji', 'meanings', 'kun', 'on', 'level']
     csv_writer = DictWriter(f, fieldnames=headers)
@@ -60,7 +57,4 @@ with open('kanji.csv', 'w', encoding='utf-8-sig', newline='') as f:
             "level": kanj_char["kanji_level"]
         })
         
-print('written to csv file')
-
-    
-    
+print('written to csv file, bro')

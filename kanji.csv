@@ -1000,8 +1000,8 @@
 詔,imperial edict,みことのり,ショウ,n1
 胡,"barbarian,foreign",なんぞ,"ウ,コ,ゴ",n1
 峻,"high,steep","けわ.しい,たか.い",シュン,n1
-槻,Zelkova tree,つき,キ,n1
 憧,"yearn after,long for,aspire to,admire,adore",あこが.れる,"ショウ,トウ,ドウ",n1
+槻,Zelkova tree,つき,キ,n1
 宵,"wee hours,evening,early night",よい,ショウ,n1
 蝶,butterfly,よい,チョウ,n1
 妄,"delusion,unnecessarily,without authority,reckless",みだ.りに,"モウ,ボウ",n1
@@ -1079,19 +1079,19 @@
 遵,"abide by,follow,obey,learn","わざ,わざおぎ",ジュン,n1
 且,"moreover,also,furthermore",か.つ,"ショ,ソ,ショウ",n1
 痘,"pox,smallpox",か.つ,トウ,n1
-痘,"pox,smallpox",か.つ,トウ,n1
 爵,"baron,peerage,court rank",か.つ,シャク,n1
 濫,"excessive,overflow,spread out","みだ.りに,みだ.りがましい",ラン,n1
 弐,"II,two,second","ふた.つ,そえ","ニ,ジ",n1
-塑,"model,molding",でく,ソ,n1
-賦,"levy,ode,prose,poem,tribute,installment",でく,"フ,ブ",n1
+賦,"levy,ode,prose,poem,tribute,installment","ふた.つ,そえ","フ,ブ",n1
+丙,"third class,3rd,3rd calendar sign",ひのえ,ヘイ,n1
 且,"moreover,also,furthermore",か.つ,"ショ,ソ,ショウ",n1
 耗,decrease,か.つ,"モウ,コウ",n1
 謁,"audience,audience (with king)",か.つ,エツ,n1
 璃,"glassy,lapis lazuli",か.つ,リ,n1
 吏,"officer,an official",か.つ,リ,n1
 斤,"axe,1.32 lb,catty,counter for loaves of bread,axe radical (no. 69)",か.つ,キン,n1
-箇,counter for articles,か.つ,"カ,コ",n1
+塑,"model,molding",でく,ソ,n1
+箇,counter for articles,でく,"カ,コ",n1
 墾,"ground-breaking,open up farmland","は.る,ひら.く",コン,n1
 隼,falcon,はやぶさ,"シュン,ジュン",n1
 渚,"strand,beach,shore",なぎさ,ショ,n1
@@ -1150,35 +1150,34 @@
 酉,"west,bird,sign of the bird,5-7PM,tenth sign of Chinese zodiac,sake radical (no. 164)",とり,ユウ,n1
 悌,serving our elders,とり,"テイ,ダイ",n1
 柚,citron,ゆず,"ユ,ユウ,ジク",n1
-倖,"happiness,luck","しあわ.せ,さいわ.い",コウ,n1
 伶,actor,わざおぎ,"レイ,リョウ",n1
+菖,iris,わざおぎ,ショウ,n1
 梧,"Chinese parasol tree,phoenix tree",あおぎり,ゴ,n1
-菖,iris,あおぎり,ショウ,n1
-宥,"soothe,calm,pacify","なだ.める,ゆる.す",ユウ,n1
 熙,"bright,sunny,prosperous,merry","たのし.む,ひか.る,ひろ.い,よろこ.ぶ,かわ.く,あきらか,ひろ.める,ひろ.まる",キ,n1
-裟,Buddhist surplice,"たのし.む,ひか.る,ひろ.い,よろこ.ぶ,かわ.く,あきらか,ひろ.める,ひろ.まる","サ,シャ",n1
-澪,"water route,shipping channel",みお,レイ,n1
-瑚,"ancestral offering receptacle,coral",みお,"コ,ゴ",n1
-奎,"star,god of literature",みお,"ケイ,キ",n1
-瑚,"ancestral offering receptacle,coral",みお,"コ,ゴ",n1
-捷,"victory,fast",はや.い,"ショウ,ソウ",n1
-崚,mountains towering in a row,はや.い,リョウ,n1
-凪,"lull,calm,(kokuji)","なぎ,な.ぐ",リョウ,n1
-颯,"sudden,quick,sound of the wind",さっ.と,"サツ,ソウ",n1
-裟,Buddhist surplice,さっ.と,"サ,シャ",n1
-勁,strong,つよ.い,ケイ,n1
-侃,"strong,just,righteous,peace-loving",つよ.い,カン,n1
-蕗,"butterbur,bog rhubarb",ふき,"ロ,ル",n1
-洵,"alike,truth","の.ぶ,まこと.に","ジュン,シュン",n1
-澪,"water route,shipping channel",みお,レイ,n1
-竣,"end,finish","わらわ,わらべ,おわ.る","ドウ,シュン",n1
-紬,pongee (a knotted silk cloth),"つむぎ,つむ.ぐ",チュウ,n1
+宥,"soothe,calm,pacify","なだ.める,ゆる.す",ユウ,n1
+倖,"happiness,luck","しあわ.せ,さいわ.い",コウ,n1
+恕,"excuse,tolerate,forgive",ゆる.す,"ジョ,ショ",n1
+嵩,"be aggravated,grow worse,grow bulky,swell","かさ,かさ.む,たか.い","スウ,シュウ",n1
+琳,"jewel,tinkling of jewelry","かさ,かさ.む,たか.い",リン,n1
+嵩,"be aggravated,grow worse,grow bulky,swell","かさ,かさ.む,たか.い","スウ,シュウ",n1
+奎,"star,god of literature","かさ,かさ.む,たか.い","ケイ,キ",n1
+誼,"friendship,intimacy","よしみ,よい",ギ,n1
 諒,"fact,reality,understand,appreciate","あきら.か,まことに",リョウ,n1
-碩,"large,great,eminent",おお.きい,セキ,n1
+哉,"how,what,alas,question mark,exclamation mark","かな,や",サイ,n1
+恕,"excuse,tolerate,forgive",ゆる.す,"ジョ,ショ",n1
 亦,"also,again",また,"エキ,ヤク",n1
-綸,"thread,silk cloth",いと,"リン,カン",n1
+琳,"jewel,tinkling of jewelry",また,リン,n1
 莞,"smiling,reed used to cover tatami",い,カン,n1
 椰,coconut tree,やし,ヤ,n1
+崚,mountains towering in a row,やし,リョウ,n1
+捷,"victory,fast",はや.い,"ショウ,ソウ",n1
+絃,"string,cord,samisen music",いと,ゲン,n1
+凪,"lull,calm,(kokuji)","なぎ,な.ぐ",ゲン,n1
+颯,"sudden,quick,sound of the wind",さっ.と,"サツ,ソウ",n1
+椋,"type of deciduous tree,grey starling",むく,リョウ,n1
+梢,"treetops,twig","こずえ,くすのき",ショウ,n1
+勁,strong,つよ.い,ケイ,n1
+迪,"edify,way,path","みち,みちび.く,すす.む,いた.る",テキ,n1
 瑶,beautiful as a jewel,たま,ヨウ,n1
 晟,clear,あきらか,"セイ,ジョウ",n1
 滉,deep and broad (water),ひろ.い,コウ,n1
@@ -1199,7 +1198,7 @@
 燎,"burn,bonfire",かがりび,リョウ,n1
 勺,"ladle,one tenth of a go,dip",かがりび,シャク,n1
 蓉,lotus,かがりび,ヨウ,n1
-蓉,lotus,かがりび,ヨウ,n1
+茄,eggplant,かがりび,カ,n1
 衿,"neck,collar,lapel",えり,"キン,コン",n1
 茄,eggplant,えり,カ,n1
 叡,"intelligence,imperial",あき.らか,エイ,n1
@@ -1217,8 +1216,10 @@
 頌,eulogy,"かたち,たた.える,ほめ.る","ショウ,ジュ,ヨウ",n1
 晏,"late,quiet,sets (sun)",おそ.い,アン,n1
 昴,the Pleiades,すばる,"コウ,ボウ",n1
+綸,"thread,silk cloth",いと,"リン,カン",n1
+脹,"dilate,distend,bulge,fill out,swell","は.れる,ふく.らむ,ふく.れる",チョウ,n1
 錘,"weight,plumb bob,sinker,spindle","つむ,おもり",スイ,n1
-楓,maple,かえで,フウ,n1
+莉,jasmine,"つむ,おもり","リ,ライ,レイ",n1
 燿,shine,"かがや.く,ひかり",ヨウ,n1
 茉,jasmine,"かがや.く,ひかり","マツ,バツ,マ",n1
 諄,tedious,"ひちくど.い,くど.い,くどくど,ねんご.ろ",シュン,n1
@@ -1228,7 +1229,6 @@
 爾,"you,thou,second person","なんじ,しかり,その,のみ,おれ,しか","ジ,ニ",n1
 柊,holly,ひいらぎ,"シュ,シュウ",n1
 捺,"press,print,affix a seal,stamp","さ.す,お.す","ナツ,ダツ",n1
-脹,"dilate,distend,bulge,fill out,swell","は.れる,ふく.らむ,ふく.れる",チョウ,n1
 菫,the violet,すみれ,キン,n1
 凜,"cold,strict,severe",きびし.い,リン,n1
 党,"party,faction,clique","なかま,むら",トウ,n2
