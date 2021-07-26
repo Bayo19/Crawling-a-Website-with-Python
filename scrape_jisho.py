@@ -38,8 +38,8 @@ def scrape_jisho(base_url, n_level):
         
 
 def crawler(num):
-    for i in range(1, num):
-        scrape_jisho(jisho_base_url, f'n{i}')
+    for level in range(1, num):
+        scrape_jisho(jisho_base_url, f'n{level}')
         sleep(3)
 
 crawler(6)
@@ -57,4 +57,4 @@ with open('kanji.csv', 'w', encoding='utf-8-sig', newline='') as f:
             "level": kanj_char["kanji_level"]
         })
         
-print('written to csv file, bro')
+print('data written to csv file, bro')

@@ -16727,19 +16727,6 @@
         "n_level": "n1"
     },
     {
-        "character": "槻",
-        "meanings": [
-            "Zelkova tree"
-        ],
-        "k_readings": [
-            "つき"
-        ],
-        "o_readings": [
-            "キ"
-        ],
-        "n_level": "n1"
-    },
-    {
         "character": "憧",
         "meanings": [
             "yearn after",
@@ -16755,6 +16742,19 @@
             "ショウ",
             "トウ",
             "ドウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "槻",
+        "meanings": [
+            "Zelkova tree"
+        ],
+        "k_readings": [
+            "つき"
+        ],
+        "o_readings": [
+            "キ"
         ],
         "n_level": "n1"
     },
@@ -17980,20 +17980,6 @@
         "n_level": "n1"
     },
     {
-        "character": "痘",
-        "meanings": [
-            "pox",
-            "smallpox"
-        ],
-        "k_readings": [
-            "か.つ"
-        ],
-        "o_readings": [
-            "トウ"
-        ],
-        "n_level": "n1"
-    },
-    {
         "character": "爵",
         "meanings": [
             "baron",
@@ -18042,20 +18028,6 @@
         "n_level": "n1"
     },
     {
-        "character": "塑",
-        "meanings": [
-            "model",
-            "molding"
-        ],
-        "k_readings": [
-            "でく"
-        ],
-        "o_readings": [
-            "ソ"
-        ],
-        "n_level": "n1"
-    },
-    {
         "character": "賦",
         "meanings": [
             "levy",
@@ -18066,11 +18038,27 @@
             "installment"
         ],
         "k_readings": [
-            "でく"
+            "ふた.つ",
+            "そえ"
         ],
         "o_readings": [
             "フ",
             "ブ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "丙",
+        "meanings": [
+            "third class",
+            "3rd",
+            "3rd calendar sign"
+        ],
+        "k_readings": [
+            "ひのえ"
+        ],
+        "o_readings": [
+            "ヘイ"
         ],
         "n_level": "n1"
     },
@@ -18165,12 +18153,26 @@
         "n_level": "n1"
     },
     {
+        "character": "塑",
+        "meanings": [
+            "model",
+            "molding"
+        ],
+        "k_readings": [
+            "でく"
+        ],
+        "o_readings": [
+            "ソ"
+        ],
+        "n_level": "n1"
+    },
+    {
         "character": "箇",
         "meanings": [
             "counter for articles"
         ],
         "k_readings": [
-            "か.つ"
+            "でく"
         ],
         "o_readings": [
             "カ",
@@ -19091,21 +19093,6 @@
         "n_level": "n1"
     },
     {
-        "character": "倖",
-        "meanings": [
-            "happiness",
-            "luck"
-        ],
-        "k_readings": [
-            "しあわ.せ",
-            "さいわ.い"
-        ],
-        "o_readings": [
-            "コウ"
-        ],
-        "n_level": "n1"
-    },
-    {
         "character": "伶",
         "meanings": [
             "actor"
@@ -19120,6 +19107,19 @@
         "n_level": "n1"
     },
     {
+        "character": "菖",
+        "meanings": [
+            "iris"
+        ],
+        "k_readings": [
+            "わざおぎ"
+        ],
+        "o_readings": [
+            "ショウ"
+        ],
+        "n_level": "n1"
+    },
+    {
         "character": "梧",
         "meanings": [
             "Chinese parasol tree",
@@ -19130,35 +19130,6 @@
         ],
         "o_readings": [
             "ゴ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "菖",
-        "meanings": [
-            "iris"
-        ],
-        "k_readings": [
-            "あおぎり"
-        ],
-        "o_readings": [
-            "ショウ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "宥",
-        "meanings": [
-            "soothe",
-            "calm",
-            "pacify"
-        ],
-        "k_readings": [
-            "なだ.める",
-            "ゆる.す"
-        ],
-        "o_readings": [
-            "ユウ"
         ],
         "n_level": "n1"
     },
@@ -19186,52 +19157,103 @@
         "n_level": "n1"
     },
     {
-        "character": "裟",
+        "character": "宥",
         "meanings": [
-            "Buddhist surplice"
+            "soothe",
+            "calm",
+            "pacify"
         ],
         "k_readings": [
-            "たのし.む",
-            "ひか.る",
-            "ひろ.い",
-            "よろこ.ぶ",
-            "かわ.く",
-            "あきらか",
-            "ひろ.める",
-            "ひろ.まる"
+            "なだ.める",
+            "ゆる.す"
         ],
         "o_readings": [
-            "サ",
-            "シャ"
+            "ユウ"
         ],
         "n_level": "n1"
     },
     {
-        "character": "澪",
+        "character": "倖",
         "meanings": [
-            "water route",
-            "shipping channel"
+            "happiness",
+            "luck"
         ],
         "k_readings": [
-            "みお"
+            "しあわ.せ",
+            "さいわ.い"
         ],
         "o_readings": [
-            "レイ"
+            "コウ"
         ],
         "n_level": "n1"
     },
     {
-        "character": "瑚",
+        "character": "恕",
         "meanings": [
-            "ancestral offering receptacle",
-            "coral"
+            "excuse",
+            "tolerate",
+            "forgive"
         ],
         "k_readings": [
-            "みお"
+            "ゆる.す"
         ],
         "o_readings": [
-            "コ",
-            "ゴ"
+            "ジョ",
+            "ショ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "嵩",
+        "meanings": [
+            "be aggravated",
+            "grow worse",
+            "grow bulky",
+            "swell"
+        ],
+        "k_readings": [
+            "かさ",
+            "かさ.む",
+            "たか.い"
+        ],
+        "o_readings": [
+            "スウ",
+            "シュウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "琳",
+        "meanings": [
+            "jewel",
+            "tinkling of jewelry"
+        ],
+        "k_readings": [
+            "かさ",
+            "かさ.む",
+            "たか.い"
+        ],
+        "o_readings": [
+            "リン"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "嵩",
+        "meanings": [
+            "be aggravated",
+            "grow worse",
+            "grow bulky",
+            "swell"
+        ],
+        "k_readings": [
+            "かさ",
+            "かさ.む",
+            "たか.い"
+        ],
+        "o_readings": [
+            "スウ",
+            "シュウ"
         ],
         "n_level": "n1"
     },
@@ -19242,7 +19264,9 @@
             "god of literature"
         ],
         "k_readings": [
-            "みお"
+            "かさ",
+            "かさ.む",
+            "たか.い"
         ],
         "o_readings": [
             "ケイ",
@@ -19251,196 +19275,17 @@
         "n_level": "n1"
     },
     {
-        "character": "瑚",
+        "character": "誼",
         "meanings": [
-            "ancestral offering receptacle",
-            "coral"
+            "friendship",
+            "intimacy"
         ],
         "k_readings": [
-            "みお"
+            "よしみ",
+            "よい"
         ],
         "o_readings": [
-            "コ",
-            "ゴ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "捷",
-        "meanings": [
-            "victory",
-            "fast"
-        ],
-        "k_readings": [
-            "はや.い"
-        ],
-        "o_readings": [
-            "ショウ",
-            "ソウ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "崚",
-        "meanings": [
-            "mountains towering in a row"
-        ],
-        "k_readings": [
-            "はや.い"
-        ],
-        "o_readings": [
-            "リョウ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "凪",
-        "meanings": [
-            "lull",
-            "calm",
-            "(kokuji)"
-        ],
-        "k_readings": [
-            "なぎ",
-            "な.ぐ"
-        ],
-        "o_readings": [
-            "リョウ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "颯",
-        "meanings": [
-            "sudden",
-            "quick",
-            "sound of the wind"
-        ],
-        "k_readings": [
-            "さっ.と"
-        ],
-        "o_readings": [
-            "サツ",
-            "ソウ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "裟",
-        "meanings": [
-            "Buddhist surplice"
-        ],
-        "k_readings": [
-            "さっ.と"
-        ],
-        "o_readings": [
-            "サ",
-            "シャ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "勁",
-        "meanings": [
-            "strong"
-        ],
-        "k_readings": [
-            "つよ.い"
-        ],
-        "o_readings": [
-            "ケイ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "侃",
-        "meanings": [
-            "strong",
-            "just",
-            "righteous",
-            "peace-loving"
-        ],
-        "k_readings": [
-            "つよ.い"
-        ],
-        "o_readings": [
-            "カン"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "蕗",
-        "meanings": [
-            "butterbur",
-            "bog rhubarb"
-        ],
-        "k_readings": [
-            "ふき"
-        ],
-        "o_readings": [
-            "ロ",
-            "ル"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "洵",
-        "meanings": [
-            "alike",
-            "truth"
-        ],
-        "k_readings": [
-            "の.ぶ",
-            "まこと.に"
-        ],
-        "o_readings": [
-            "ジュン",
-            "シュン"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "澪",
-        "meanings": [
-            "water route",
-            "shipping channel"
-        ],
-        "k_readings": [
-            "みお"
-        ],
-        "o_readings": [
-            "レイ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "竣",
-        "meanings": [
-            "end",
-            "finish"
-        ],
-        "k_readings": [
-            "わらわ",
-            "わらべ",
-            "おわ.る"
-        ],
-        "o_readings": [
-            "ドウ",
-            "シュン"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "紬",
-        "meanings": [
-            "pongee (a knotted silk cloth)"
-        ],
-        "k_readings": [
-            "つむぎ",
-            "つむ.ぐ"
-        ],
-        "o_readings": [
-            "チュウ"
+            "ギ"
         ],
         "n_level": "n1"
     },
@@ -19462,17 +19307,36 @@
         "n_level": "n1"
     },
     {
-        "character": "碩",
+        "character": "哉",
         "meanings": [
-            "large",
-            "great",
-            "eminent"
+            "how",
+            "what",
+            "alas",
+            "question mark",
+            "exclamation mark"
         ],
         "k_readings": [
-            "おお.きい"
+            "かな",
+            "や"
         ],
         "o_readings": [
-            "セキ"
+            "サイ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "恕",
+        "meanings": [
+            "excuse",
+            "tolerate",
+            "forgive"
+        ],
+        "k_readings": [
+            "ゆる.す"
+        ],
+        "o_readings": [
+            "ジョ",
+            "ショ"
         ],
         "n_level": "n1"
     },
@@ -19492,17 +19356,16 @@
         "n_level": "n1"
     },
     {
-        "character": "綸",
+        "character": "琳",
         "meanings": [
-            "thread",
-            "silk cloth"
+            "jewel",
+            "tinkling of jewelry"
         ],
         "k_readings": [
-            "いと"
+            "また"
         ],
         "o_readings": [
-            "リン",
-            "カン"
+            "リン"
         ],
         "n_level": "n1"
     },
@@ -19530,6 +19393,141 @@
         ],
         "o_readings": [
             "ヤ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "崚",
+        "meanings": [
+            "mountains towering in a row"
+        ],
+        "k_readings": [
+            "やし"
+        ],
+        "o_readings": [
+            "リョウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "捷",
+        "meanings": [
+            "victory",
+            "fast"
+        ],
+        "k_readings": [
+            "はや.い"
+        ],
+        "o_readings": [
+            "ショウ",
+            "ソウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "絃",
+        "meanings": [
+            "string",
+            "cord",
+            "samisen music"
+        ],
+        "k_readings": [
+            "いと"
+        ],
+        "o_readings": [
+            "ゲン"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "凪",
+        "meanings": [
+            "lull",
+            "calm",
+            "(kokuji)"
+        ],
+        "k_readings": [
+            "なぎ",
+            "な.ぐ"
+        ],
+        "o_readings": [
+            "ゲン"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "颯",
+        "meanings": [
+            "sudden",
+            "quick",
+            "sound of the wind"
+        ],
+        "k_readings": [
+            "さっ.と"
+        ],
+        "o_readings": [
+            "サツ",
+            "ソウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "椋",
+        "meanings": [
+            "type of deciduous tree",
+            "grey starling"
+        ],
+        "k_readings": [
+            "むく"
+        ],
+        "o_readings": [
+            "リョウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "梢",
+        "meanings": [
+            "treetops",
+            "twig"
+        ],
+        "k_readings": [
+            "こずえ",
+            "くすのき"
+        ],
+        "o_readings": [
+            "ショウ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "勁",
+        "meanings": [
+            "strong"
+        ],
+        "k_readings": [
+            "つよ.い"
+        ],
+        "o_readings": [
+            "ケイ"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "迪",
+        "meanings": [
+            "edify",
+            "way",
+            "path"
+        ],
+        "k_readings": [
+            "みち",
+            "みちび.く",
+            "すす.む",
+            "いた.る"
+        ],
+        "o_readings": [
+            "テキ"
         ],
         "n_level": "n1"
     },
@@ -19835,15 +19833,15 @@
         "n_level": "n1"
     },
     {
-        "character": "蓉",
+        "character": "茄",
         "meanings": [
-            "lotus"
+            "eggplant"
         ],
         "k_readings": [
             "かがりび"
         ],
         "o_readings": [
-            "ヨウ"
+            "カ"
         ],
         "n_level": "n1"
     },
@@ -20104,6 +20102,40 @@
         "n_level": "n1"
     },
     {
+        "character": "綸",
+        "meanings": [
+            "thread",
+            "silk cloth"
+        ],
+        "k_readings": [
+            "いと"
+        ],
+        "o_readings": [
+            "リン",
+            "カン"
+        ],
+        "n_level": "n1"
+    },
+    {
+        "character": "脹",
+        "meanings": [
+            "dilate",
+            "distend",
+            "bulge",
+            "fill out",
+            "swell"
+        ],
+        "k_readings": [
+            "は.れる",
+            "ふく.らむ",
+            "ふく.れる"
+        ],
+        "o_readings": [
+            "チョウ"
+        ],
+        "n_level": "n1"
+    },
+    {
         "character": "錘",
         "meanings": [
             "weight",
@@ -20121,15 +20153,18 @@
         "n_level": "n1"
     },
     {
-        "character": "楓",
+        "character": "莉",
         "meanings": [
-            "maple"
+            "jasmine"
         ],
         "k_readings": [
-            "かえで"
+            "つむ",
+            "おもり"
         ],
         "o_readings": [
-            "フウ"
+            "リ",
+            "ライ",
+            "レイ"
         ],
         "n_level": "n1"
     },
@@ -20272,25 +20307,6 @@
         "o_readings": [
             "ナツ",
             "ダツ"
-        ],
-        "n_level": "n1"
-    },
-    {
-        "character": "脹",
-        "meanings": [
-            "dilate",
-            "distend",
-            "bulge",
-            "fill out",
-            "swell"
-        ],
-        "k_readings": [
-            "は.れる",
-            "ふく.らむ",
-            "ふく.れる"
-        ],
-        "o_readings": [
-            "チョウ"
         ],
         "n_level": "n1"
     },

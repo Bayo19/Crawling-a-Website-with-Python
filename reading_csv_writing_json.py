@@ -23,4 +23,3 @@ read_from_csv_file()
 write_to_json_file()
 print('written to json file')
 
-
