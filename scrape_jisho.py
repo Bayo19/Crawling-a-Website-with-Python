@@ -43,7 +43,8 @@ def crawler(num):
         sleep(3)
 
 crawler(6)
-        
+
+#writing scraped info to the csv file       
 with open('kanji.csv', 'w', encoding='utf-8-sig', newline='') as f:
     headers = ['kanji', 'meanings', 'kun', 'on', 'level']
     csv_writer = DictWriter(f, fieldnames=headers)
